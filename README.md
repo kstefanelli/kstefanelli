@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Hi, I'm Kristina!
-
+- 🔭 I’m currently working on building a mobile chat app for cyclists to organize group rides: Spoke
 - 📫 How to reach me: kristinastefanelli@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I used to photograph comedy shows in NYC.
