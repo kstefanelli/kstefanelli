@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Hi, I'm Kristina!
-- 🔭 I’m currently working on a React Native app called Spoke. A chat app for cyclists to organize group rides. Built with Expo and Firebase (Auth, DB).
+- 🔭 I’m currently working on a React Native app called Spoke. A chat app for cyclists to organize group rides. Built with Expo, Firebase authentication and Firestore for the database.
 - 📫 How to reach me: kristinastefanelli@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I used to photograph comedy shows in NYC.
