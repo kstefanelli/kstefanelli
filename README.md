@@ -3,11 +3,7 @@ kstefanelli/kstefanelli is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hi, I'm Kristina!
-- 🔭 I’m currently working on a React Native app called Spoke. A chat app for cyclists to organize group rides. Built with Expo, Firebase authentication and Firestore for the database.
-- 📫 How to reach me: kristinastefanelli@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I used to photograph comedy shows in NYC.
-- Languages and Tools:
+Hi! I'm Kristina, a software engineer currently based in New York City. I recently graduated from the Grace Program at Fullstack Academy of Code, one of the countries leading immersive software engineering programs, where we studied the PERN stack. I’m looking forward to joining a team as software engineer where I can make a positive impact and contribute to innovative solutions.
 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+TECHNOLOGIES
+JavaScript, Node.js, React, Redux, React-Native, Expo, HTML, CSS, Express, REST APIs, PostgreSQL, Sequelize, Firebase, Firestore, Git, GitHub, Webpack, Heroku, Jasmine, Mocha
