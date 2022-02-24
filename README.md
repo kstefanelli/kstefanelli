@@ -7,4 +7,4 @@ Hi! I'm Kristina, a full stack software engineer currently based in New York Cit
 
 TECHNOLOGIES
 
-JavaScript, Node.js, React, Redux, React-Native, Expo, HTML, CSS, Express, REST APIs, PostgreSQL, Sequelize, Firebase, Firestore, Git, GitHub, Webpack, Heroku, Jasmine, Mocha
+JavaScript, Node.js, React, Redux, React-Native, Expo, HTML, CSS, Express, REST APIs, PostgreSQL, Sequelize, Firebase, Firestore, Git, GitHub, Webpack, Heroku, Jasmine, Mocha, Next.js, Tailwind CSS
