@@ -3,7 +3,7 @@ kstefanelli/kstefanelli is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-Hi! I'm Kristina, a software engineer who enjoys making native & web applications.
+Hi! I'm Kristina, a full stack software engineer who enjoys making native & web applications.
 
 TECHNOLOGIES
 
