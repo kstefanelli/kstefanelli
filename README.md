@@ -3,9 +3,9 @@ kstefanelli/kstefanelli is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-Full Stack Developer and Tech Project Manager focused on creating innovative tech solutions by blending technical skills with project management to achieve impactful results. Skilled in JavaScript, React, Node.js, and more, with a strong focus on user-centric design and agile methodologies.
+Full Stack Developer and Project Manager committed to delivering innovative tech solutions by combining technical expertise with project management skills to achieve impactful results, with a focus on user-centric design and agile methodologies.
 
-Languages & Frameworks: JavaScript, TypeScript, React, Next.js, Node.js
+Languages & Frameworks: JavaScript, TypeScript, React, Next.js, Node.js, Express, PostgreSQL
 
 Tools & Platforms: Git, GitHub, VSCode, Heroku, Vercel, Figma, Salesforce, Smartsheet
 
