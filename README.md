@@ -7,7 +7,7 @@ Innovative tech professional with a blend of technical expertise and project man
 
 Languages & Frameworks: Java (beginner), JavaScript, TypeScript, React, React Native, Next.js, Node.js, Express, PostgreSQL, GraphQL, Tailwind CSS
 
-Tools & Platforms: Git, GitHub, VSCode, Vercel, Heroku, Figma, Smartsheet, Salesforce, Google Workspace, MS Office Suite 
+Tools & Platforms: Git, GitHub, VSCode, Vercel, Heroku, Figma, Smartsheet, Salesforce, Google Workspace, Microsoft 365 
 
 Methodologies: Agile, Test-Driven Development (TDD)
 
